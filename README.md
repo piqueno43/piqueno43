@@ -15,3 +15,4 @@
 </div>
   
   ##
+![Snake animation](https://github.com/piqueno43/piqueno43/blob/output/github-contribution-grid-snake.svg)
